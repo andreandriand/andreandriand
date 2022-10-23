@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **Freelance Web Developer**
 
-- 🌱 I’m currently learning **PHP & Laravel**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
